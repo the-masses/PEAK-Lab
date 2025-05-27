@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jzblog.pages.dev//sitemap.xml
+Sitemap: https://the-masses.github.io/PEAK-Lab/sitemap.xml
