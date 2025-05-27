@@ -1,0 +1,95 @@
+<article id="people{{project.target}}">
+  <div class="avatar">
+ 
+      
+        {% include figure.liquid loading="eager" path=project.img sizes="(min-width: 768px) 156px, 50vw" alt="project thumbnail" class="card-img-center" %}
+
+     
+
+        {% comment %}
+          <div class="col-6" style="width: 100%;">
+            <button  type="button" class="btn btn-light" style="text-transform:none;width:80px;padding:0">Website <i class="fa fa-globe	"> </i></button>
+            <button type="button" class="btn btn-light" style="text-transform:none;width:80px;padding:0">Résumé <i class="fa fa-address-book	"> </i></button>
+            <button type="button" class="btn btn-light " style="text-transform:none;width:80px;padding:0">Scholar <i class="si si-google-scholar	"> </i></button>
+          </div>
+          <div class="col-6" style="width: 100%;">
+            <button type="button" class="btn btn-light" style="text-transform:none;width:80px;padding:0">email <i class="fa fa-envelope	"> </i></button>
+            <button type="button" class="btn btn-light" style="text-transform:none;width:80px;padding:0">Twitter <i class="si si-twitter	"> </i></button>
+            <button type="button" class="btn btn-light " style="text-transform:none;width:80px;padding:0">GitHub <i class="si si-github	"> </i></button>
+
+          </div>
+        {% endcomment %}
+
+        <ul class="links button-list button-grid">
+          <li>
+            <a href="https://vsitzmann.github.io/" class="websiteMember with-icon" target="_blank"
+              ><span>Website <i class="fa fa-globe	"></i></span>
+            </a>
+          </li>
+          <li>
+            <a href="https://vsitzmann.github.io/" class="websiteMember with-icon" target="_blank"
+              ><span>Résumé <i class="fa fa-address-book	"></i></span>
+            </a>
+          </li>
+          <li>
+            <a href="https://vsitzmann.github.io/" class="websiteMember with-icon" target="_blank"
+              ><span>Scholar <i class="si si-google-scholar	"></i></span>
+            </a>
+          </li>
+          <li>
+            <a href="https://vsitzmann.github.io/" class="websiteMember with-icon" target="_blank"
+              ><span>email <i class="fa fa-envelope		"></i></span>
+            </a>
+          </li>
+          <li>
+            <a href="https://vsitzmann.github.io/" class="websiteMember with-icon" target="_blank"
+              ><span>Twitter <i class="si si-twitter	"></i></span>
+            </a>
+          </li>
+          <li>
+            <a href="https://vsitzmann.github.io/" class="websiteMember with-icon" target="_blank"
+              ><span>GitHub <i class="si si-github	"></i></span>
+            </a>
+          </li>
+        </ul>
+
+   
+  </div>
+
+  <div class="details">
+    <div>
+     
+    </div>
+  </div>
+</article>
+
+
+<div class="col-md-6" id="detail-vincent">
+  <div class="card h-100 detail-card" style="background:#181818;">
+    <div class="row g-0">
+      <div class="col-md-6 align-items-center card-body">
+        <div class="mb-3"><img src="https://randomuser.me/api/portraits/men/1.jpg" class="img-fluid w-100 h-auto rounded-start" alt="Vincent Sitzmann"></div>
+        <div class="row g-2">
+          <div class="col-6 col-md-6"><a href="#" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-globe"></i> Website</a></div>
+          <div class="col-6 col-md-6"><a href="#" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-envelope"></i> Email</a></div>
+          <div class="col-6 col-md-6"><a href="#" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-file-earmark-person"></i> Résumé</a></div>
+          <div class="col-6 col-md-6"><a href="#" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-twitter"></i> Twitter</a></div>
+          <div class="col-6 col-md-6"><a href="#" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-mortarboard"></i> Scholar</a></div>
+          <div class="col-6 col-md-6"><a href="#" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-github"></i> GitHub</a></div>
+        </div>
+
+      </div>
+      <div class="col-md-6">
+        <div class="card-body">
+          <h5 class="card-title">Vincent Sitzmann</h5>
+          <h6 class="card-subtitle mb-2 text-muted">Faculty</h6>
+          <p class="card-text" style="color:#fff;">
+            Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.<br>
+            His research interest lies in neural scene representations—the way neural networks learn to represent information on our world.
+          </p>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

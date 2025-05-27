@@ -1,0 +1,57 @@
+<div class="col">
+  <a href="{% if people.redirect %}{{ people.redirect }}{% else %}{{ people.url | relative_url }}{% endif %}">
+    <div class="card h-100 hoverable">
+      {% if people.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=people.img
+          sizes = "250px"
+          alt="people thumbnail"
+          class="card-img-top"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ people.title }}</h2>
+        <p class="card-text">{{ people.description }}</p>
+        <div class="row ml-1 mr-1 p-0">
+          {% if people.website %}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ people.website }}"><i class="fa-brands fa-github gh-icon"></i></a>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+        <div class="row ml-1 mr-1 p-0">
+          {% if people.website %}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ people.website }}"><i class="fa-brands fa-github gh-icon"></i></a>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+        <div class="row ml-1 mr-1 p-0">
+            {% if people.email %}
+              <div class="github-icon">
+                <div class="icon" data-toggle="tooltip" title="Code Repository">
+                  <a href="{{ people.email }}"><i class="fa-brands fa-github gh-icon"></i></a>
+                </div>
+              </div>
+            {% endif %}
+          </div>
+
+          <div class="row ml-1 mr-1 p-0">
+            {% if people.twiter %}
+              <div class="github-icon">
+                <div class="icon" data-toggle="tooltip" title="Code Repository">
+                  <a href="{{ people.twiter }}"><i class="fa-brands fa-github gh-icon"></i></a>
+                </div>
+              </div>
+            {% endif %}
+          </div>
+      </div>
+    </div>
+  </a>
+</div>
