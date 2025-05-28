@@ -32,14 +32,14 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "peoples-vincent-sitzmann1",
-          title: 'Vincent Sitzmann1',
-          description: "Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.  His research interest lies in neural scene representations — the way neural networks learn to represent information on our world.",
+          section: "News",},{id: "peoples-jiang-zeyu",
+          title: 'Jiang Zeyu',
+          description: "Jiang Zeyu is an upcoming PhD student in the Intelligent Transportation Thrust at the Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. Changhao Chen. Previously, he obtained his master’s degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, supervised by Prof. Lihua Xie. During his master’s degree, he also joined Prof. Lin Shao’s group in the School of Computing at National University of Singapore as a research intern. Piror to that, he received his bachelor’s degree from the School of Automation at Beijing Institute of Technology.",
           section: "Peoples",handler: () => {
               window.location.href = "/PEAK-Lab/peoples/1_project/";
-            },},{id: "peoples-vincent-sitzmann2",
-          title: 'Vincent Sitzmann2',
-          description: "Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.  His research interest lies in neural scene representations — the way neural networks learn to represent information on our world.",
+            },},{id: "peoples-zhou-changqing",
+          title: 'Zhou Changqing',
+          description: "Changqing ZHOU is an incoming Ph.D. student at HKUST-GZ, where he will be advised by Prof. Changhao CHEN. He holds an M.S. in Artificial Intelligence from NTU and a B.S. in Mechanical Engineering from SJTU. His research interests focus on 3D vision and scene understanding. He aims to develop embodied agents capable of perceiving and interacting with the real world, with the ultimate goal of delivering tangible benefits to everyday life.",
           section: "Peoples",handler: () => {
               window.location.href = "/PEAK-Lab/peoples/2_project/";
             },},{id: "peoples-vincent-sitzmann3",
