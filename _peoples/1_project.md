@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Vincent Sitzmann1
-target: 1
+title: Jiang Zeyu
 role: Phd Students
-description: Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.  His research interest lies in neural scene representations — the way neural networks learn to represent information on our world.
-img: https://randomuser.me/api/portraits/men/1.jpg
+target: 1
+description: Jiang Zeyu is an upcoming PhD student in the Intelligent Transportation Thrust at the Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. Changhao Chen. Previously, he obtained his master’s degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, supervised by Prof. Lihua Xie. During his master’s degree, he also joined Prof. Lin Shao’s group in the School of Computing at National University of Singapore as a research intern. Piror to that, he received his bachelor’s degree from the School of Automation at Beijing Institute of Technology.
+img: assets/img/jiangzeyu.jpg
 importance: 1
 category: work
-email: '1231231@qq.com'
-github: '12312321'
-twitter : 'Sitzmann'
-website: 'github.com'
+email: 'zjiang739@gmail.com'
+github: 'https://github.com/the-masses'
+# twitter : 'Sitzmann'
+website: 'https://the-masses.github.io/'
 related_publications: true
 ---
 

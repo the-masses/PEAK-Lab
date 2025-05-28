@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Vincent Sitzmann2
+title: Zhou Changqing
 role: Phd Students
 target: 2
-description: Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.  His research interest lies in neural scene representations — the way neural networks learn to represent information on our world.
-img: https://randomuser.me/api/portraits/men/2.jpg
+description: Changqing ZHOU is an incoming Ph.D. student at HKUST-GZ, where he will be advised by Prof. Changhao CHEN. He holds an M.S. in Artificial Intelligence from NTU and a B.S. in Mechanical Engineering from SJTU. His research interests focus on 3D vision and scene understanding. He aims to develop embodied agents capable of perceiving and interacting with the real world, with the ultimate goal of delivering tangible benefits to everyday life.
+img: assets/img/zhouchangqing.png
 importance: 1
 category: work
-email: '1231231@qq.com'
-github: '12312321'
-twitter : 'Sitzmann'
-website: 'github.com'
+email: 'zhou0365@e.ntu.edu.sg'
+# github: '12312321'
+# twitter : 'Sitzmann'
+website: 'https://scholar.google.com/citations?user=FZ3jPs4AAAAJ&hl=en'
 related_publications: true
 ---
 
