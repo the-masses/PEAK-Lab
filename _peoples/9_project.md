@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Vincent Sitzmann9
-role: Phd Students
+title: Zihan Zhang
+role: Research Assistant
 target: 9
-description: Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.  His research interest lies in neural scene representations — the way neural networks learn to represent information on our world.
-img: https://randomuser.me/api/portraits/men/9.jpg
+description: Zihan Zhang is a Research Assistant Intern at HKUST(GZ) Peak Lab, Under the supervision of Prof. Changhao Chen. He is currently a second-year master student in Johns Hopkins University. He is currently working on lightweight Transformer models for matching neural networks. His research interests lies on Efficient Model Inference, Artificial Intelligence for Generative Contents and Artificial Intelligence for Healthcare.
+img: /PEAK-Lab/assets/img/zhangzihan.png
 importance: 1
 category: work
-email: '1231231@qq.com'
-github: '12312321'
-twitter : 'Sitzmann'
-website: 'github.com'
+email: 'zzhan343@jh.edu'
+# github: '12312321'
+# twitter : 'Sitzmann'
+website: 'https://zihanzhang2002.github.io/ZihanZhang.github.io/'
 related_publications: true
 ---
 

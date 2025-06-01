@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Vincent Sitzmann4
-role: Phd Students
+title: Dehan Shen​
+role: ​​Research Assistant​​
 target: 4
-description: Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.  His research interest lies in neural scene representations — the way neural networks learn to represent information on our world.
-img: https://randomuser.me/api/portraits/men/4.jpg
+description: Dehan Shen is a research assistant working with Prof. Changhao Chen. He graduated from the University of Sheffield with a Master's degree in Robotics and from Shanghai University with a Bachelor's degree in Electronic Information Engineering. His research interests include learning-based inertial odometry and proprioceptive intelligence.
+img: /PEAK-Lab/assets/img/shendehan.png
 importance: 1
 category: work
-email: '1231231@qq.com'
-github: '12312321'
-twitter : 'Sitzmann'
-website: 'github.com'
+email: 'dehanshen@hkust-gz.edu.cn'
+# github: '12312321'
+# twitter : 'Sitzmann'
+# website: 'github.com'
 related_publications: true
 ---
 

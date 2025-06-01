@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Vincent Sitzmann8
-role: Phd Students
+title: Renmin Cheng
+role: Research Assistant
 target: 8
-description: Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.  His research interest lies in neural scene representations — the way neural networks learn to represent information on our world.
-img: https://randomuser.me/api/portraits/men/8.jpg
+description: Renmin Cheng is a research assistant at HKUST(GZ) working with Prof.Changhao Chen. Before that, He works as RD at Baidu. He graduated from Xidian Uninersity  with a Master’s degree in Engineering , and from the Heilongjiang University with an undergraduate degree in Engineering.
+img: /PEAK-Lab/assets/img/chengrenmin.png
 importance: 1
 category: work
-email: '1231231@qq.com'
-github: '12312321'
-twitter : 'Sitzmann'
-website: 'github.com'
+email: 'renmincheng@hkust-gz.edu.cn'
+# github: '12312321'
+# twitter : 'Sitzmann'
+website: 'https://www.xinzhai.top'
 related_publications: true
 ---
 

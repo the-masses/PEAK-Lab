@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Vincent Sitzmann7
-role: Phd Students
+title: Chenyang Li
+role: Research Assistant
 target: 7
-description: Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.  His research interest lies in neural scene representations — the way neural networks learn to represent information on our world.
-img: https://randomuser.me/api/portraits/men/7.jpg
+description: Mathew Chenyang Li is a Research Assistant at HKUST(GZ), working in the PEAK Lab with Prof. Changhao Chen. He is also pursuing a Master of Science in Data Science at Nanyang Technological University. He is interested in embodied AI, robot perception and decision-making, and adversarial robustness in deep and reinforcement learning.
+img: /PEAK-Lab/assets/img/lichenyang.png
 importance: 1
 category: work
-email: '1231231@qq.com'
-github: '12312321'
-twitter : 'Sitzmann'
-website: 'github.com'
+email: 'chenyangl@hkust-gz.edu.cn'
+# github: '12312321'
+# twitter : 'Sitzmann'
+website: 'https://lichenyang0820.github.io/'
 related_publications: true
 ---
 

@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Vincent Sitzmann6
-role: Phd Students
+title: Yufei Zhang
+role: Research Assistant
 target: 6
-description: Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.  His research interest lies in neural scene representations — the way neural networks learn to represent information on our world.
-img: https://randomuser.me/api/portraits/men/6.jpg
+description: Yufei Zhang is a research assistant in PEAK lab working with Prof. Chen Changhao. He received his undergraduate degree from the School of Information Science and Engineering of Fudan University and his postgraduate degree from Nanyang Technological University. His current research interests include multimodal continuous learning and embodied intelligence.
+img: /PEAK-Lab/assets/img/zhangyufei.png
 importance: 1
 category: work
-email: '1231231@qq.com'
-github: '12312321'
-twitter : 'Sitzmann'
-website: 'github.com'
+# email: '1231231@qq.com'
+# github: '12312321'
+# twitter : 'Sitzmann'
+# website: 'github.com'
 related_publications: true
 ---
 

@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Zhou Changqing
-role: Phd Students
-target: 2
-description: Changqing ZHOU is an incoming Ph.D. student at HKUST-GZ, where he will be advised by Prof. Changhao CHEN. He holds an M.S. in Artificial Intelligence from NTU and a B.S. in Mechanical Engineering from SJTU. His research interests focus on 3D vision and scene understanding. He aims to develop embodied agents capable of perceiving and interacting with the real world, with the ultimate goal of delivering tangible benefits to everyday life.
-img: /PEAK-Lab/assets/img/zhouchangqing.png
+title: Zeyu Jiang
+role: Phd Student
+target: 1
+description: Zeyu Jiang is an upcoming PhD student at HKUST-GZ, supervised by Prof. Changhao Chen. Previously, he obtained his master’s degree at NTU, supervised by Prof. Lihua Xie. Piror to that, he received his bachelor’s degree at BIT. His research interests focus on embodied perception based on visual SLAM. He is interested in robotics and committed to joining the development of embodied AI into the physical world.
+img: /PEAK-Lab/assets/img/jiangzeyu.jpg
 importance: 1
 category: work
-email: 'zhou0365@e.ntu.edu.sg'
-# github: '12312321'
+email: 'zjiang015@e.ntu.edu.sg'
+github: 'https://github.com/the-masses'
 # twitter : 'Sitzmann'
-website: 'https://scholar.google.com/citations?user=FZ3jPs4AAAAJ&hl=en'
+website: 'https://the-masses.github.io/'
 related_publications: true
 ---
-

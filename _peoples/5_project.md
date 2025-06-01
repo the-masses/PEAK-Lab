@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Vincent Sitzmann5
-role: Phd Students
+title: Lingjie Zhang
+role: Research Assistant
 target: 5
-description: Vincent is the principal investigator of the Scene Representation Group at MIT CSAIL, where he works as an assistant professor. Previously, he finished his PhD at Stanford University and a postdoc at MIT.  His research interest lies in neural scene representations — the way neural networks learn to represent information on our world.
-img: https://randomuser.me/api/portraits/men/5.jpg
+description: Lingjie Zhang is a research assistant at PEAK-LAB, HKUST(GZ), advised by Prof. Changhao Chen, and a master's student in Automotive Engineering at the Technical University of Munich. He is interested in embodied navigation, particularly in learning-based motion planning and control.
+img: /PEAK-Lab/assets/img/zhanglingjie.png
 importance: 1
 category: work
-email: '1231231@qq.com'
-github: '12312321'
-twitter : 'Sitzmann'
-website: 'github.com'
+email: 'zljjacob@gmail.com'
+# github: '12312321'
+# twitter : 'Sitzmann'
+# website: 'github.com'
 related_publications: true
 ---
 
