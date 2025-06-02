@@ -8,7 +8,7 @@ img: /PEAK-Lab/assets/img/jiangzeyu.png
 importance: 2
 category: work
 email: 'zjiang015@e.ntu.edu.sg'
-github: 'https://github.com/the-masses'
+# github: 'https://github.com/the-masses'
 # twitter : 'Sitzmann'
 website: 'https://the-masses.github.io/'
 related_publications: true
