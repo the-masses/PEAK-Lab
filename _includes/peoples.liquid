@@ -1,57 +1,28 @@
-<div class="col">
-  <a href="{% if people.redirect %}{{ people.redirect }}{% else %}{{ people.url | relative_url }}{% endif %}">
-    <div class="card h-100 hoverable">
-      {% if people.img %}
-        {%
-          include figure.liquid
-          loading="eager"
-          path=people.img
-          sizes = "250px"
-          alt="people thumbnail"
-          class="card-img-top"
-        %}
-      {% endif %}
-      <div class="card-body">
-        <h2 class="card-title">{{ people.title }}</h2>
-        <p class="card-text">{{ people.description }}</p>
-        <div class="row ml-1 mr-1 p-0">
-          {% if people.website %}
-            <div class="github-icon">
-              <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ people.website }}"><i class="fa-brands fa-github gh-icon"></i></a>
-              </div>
-            </div>
-          {% endif %}
+<div id="{{ project.target }}">
+  <div class=" h-100 detail-card" >
+    <div class="row g-0">
+      <div class="col-md-6 align-items-center card-body people-card">
+        <div class="mb-3">< img src="{{ project.img }}" class="img-fluid w-100 h-auto rounded-start" ></div>
+        <div class="row g-2">
+          <div class="col-6 col-md-6"><a href=" " class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-globe"></i> Website</a ></div>
+          <div class="col-6 col-md-6"><a href="mailto:{{project.email}}" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-envelope"></i> Email</a ></div>
+          <div class="col-6 col-md-6"><a href="{{project.resume}}" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-file-earmark-person"></i> Résumé</a ></div>
+          <div class="col-6 col-md-6"><a href="{{project.twitter}}" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-twitter"></i> Twitter</a ></div>
+          <div class="col-6 col-md-6"><a href="{{project.scholar}}" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-mortarboard"></i> Scholar</a ></div>
+          <div class="col-6 col-md-6"><a href="{{project.github}}" class="btn btn-outline-light btn-sm w-100 mb-1"><i class="bi bi-github"></i> GitHub</a ></div>
         </div>
-        <div class="row ml-1 mr-1 p-0">
-          {% if people.website %}
-            <div class="github-icon">
-              <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ people.website }}"><i class="fa-brands fa-github gh-icon"></i></a>
-              </div>
-            </div>
-          {% endif %}
-        </div>
-        <div class="row ml-1 mr-1 p-0">
-            {% if people.email %}
-              <div class="github-icon">
-                <div class="icon" data-toggle="tooltip" title="Code Repository">
-                  <a href="{{ people.email }}"><i class="fa-brands fa-github gh-icon"></i></a>
-                </div>
-              </div>
-            {% endif %}
-          </div>
 
-          <div class="row ml-1 mr-1 p-0">
-            {% if people.twiter %}
-              <div class="github-icon">
-                <div class="icon" data-toggle="tooltip" title="Code Repository">
-                  <a href="{{ people.twiter }}"><i class="fa-brands fa-github gh-icon"></i></a>
-                </div>
-              </div>
-            {% endif %}
-          </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card-body">
+          <h5 class="card-title">{{ project.title }}</h5>
+          <h6 class="card-subtitle mb-2 text-muted">{{ project.role }}</h6>
+          <p class="card-text" >
+           {{project.description}}
+          </p >
+          
+        </div>
       </div>
     </div>
-  </a>
+  </div>
 </div>
