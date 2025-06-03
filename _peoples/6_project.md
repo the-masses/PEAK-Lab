@@ -7,7 +7,7 @@ description: Yufei Zhang is a research assistant in PEAK lab working with Prof. 
 img: /PEAK-Lab/assets/img/zhangyufei.png
 importance: 6
 category: work
-# email: '1231231@qq.com'
+email: 'yufeizhang@hkust-gz.edu.cn'
 # github: '12312321'
 # twitter : 'Sitzmann'
 # website: 'github.com'
