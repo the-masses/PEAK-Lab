@@ -79,7 +79,7 @@ ninja.data = [{
               window.location.href = "/PEAK-Lab/peoples/8_project/";
             },},{id: "peoples-zihan-zhang",
           title: 'Zihan Zhang',
-          description: "Zihan Zhang is a Research Assistant Intern at HKUST(GZ) Peak Lab, Under the supervision of Prof. Changhao Chen. He is currently a second-year master student in Johns Hopkins University. He is currently working on lightweight Transformer models for matching neural networks. His research interests lies on Efficient Model Inference, Artificial Intelligence for Generative Contents and Artificial Intelligence for Healthcare.",
+          description: "Zihan Zhang is a Research Assistant Intern at HKUST(GZ) Peak Lab, under the supervision of Prof. Changhao Chen. He is currently a second-year master student in Johns Hopkins University. He is currently working on lightweight Transformer models for matching neural networks. His research interests lies on Efficient Model Inference, Artificial Intelligence for Generative Contents and Artificial Intelligence for Healthcare.",
           section: "Peoples",handler: () => {
               window.location.href = "/PEAK-Lab/peoples/9_project/";
             },},{id: "projects-站三",
