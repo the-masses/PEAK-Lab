@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Jialong Liu
+title: Zihan Zhang
 role: Research Assistant
 target: 10
-description: Jialong Liu Research Assistant Working with Prof. Changhao Chen at HKUST (GZ). Graduated from Guangdong University of Technology. Has participated in multiple robotic competitive events. Interested in integrating algorithms and hardware for robot control. 
-img: /PEAK-Lab/assets/img/liujialong.png
+description: Zihan Zhang is a Research Assistant Intern at HKUST(GZ) Peak Lab, under the supervision of Prof. Changhao Chen. He is currently a second-year master student in Johns Hopkins University. He is currently working on lightweight Transformer models for matching neural networks. His research interests lies on Efficient Model Inference, Artificial Intelligence for Generative Contents and Artificial Intelligence for Healthcare.
+img: /PEAK-Lab/assets/img/zhangzihan.png
 importance: 10
 category: work
-email: 'jialongliu@hkust-gz.edu.cn'
-# github: ''
+email: 'zzhan343@jh.edu'
+# github: '12312321'
 # twitter : 'Sitzmann'
-website: 'https://github.com/JIAlonglong'
+website: 'https://zihanzhang2002.github.io/ZihanZhang.github.io/'
 related_publications: true
 ---
 

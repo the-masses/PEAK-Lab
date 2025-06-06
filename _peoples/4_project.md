@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Dehan Shen​
-role: ​​Research Assistant​​
+title: Qunchao Jin
+role: Research Assistant
 target: 4
-description: Dehan Shen is a research assistant working with Prof. Changhao Chen. He graduated from the University of Sheffield with a Master's degree in Robotics and from Shanghai University with a Bachelor's degree in Electronic Information Engineering. His research interests include learning-based inertial odometry and proprioceptive intelligence.
-img: /PEAK-Lab/assets/img/shendehan.png
+description: Qunchao Jin is a Research Assistant at ​​Peak Lab​​, where he focuses on ​​foundation model-based embodied navigation​​. Previously, he worked as a ​​Computer Vision Researcher​​ at ​​Lenovo Research​​, developing robotic inspection systems. He holds a ​​Master’s degree​​ from ​​East China Normal University​​, with research in ​​medical image analysis​​. Driven by a broad interest in ​​AI applications across industries​​, Qunchao aims to bridge advanced research with practical solutions to real-world challenges.
+img: /PEAK-Lab/assets/img/jinqunchao.png
 importance: 4
 category: work
-email: 'dehanshen@hkust-gz.edu.cn'
+email: 'qunchao.jin@outlook.com'
 # github: '12312321'
 # twitter : 'Sitzmann'
 # website: 'github.com'
 related_publications: true
 ---
-

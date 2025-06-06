@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Yufei Zhang
+title: Lingjie Zhang
 role: Research Assistant
 target: 6
-description: Yufei Zhang is a research assistant in PEAK lab working with Prof. Chen Changhao. He received his undergraduate degree from the School of Information Science and Engineering of Fudan University and his postgraduate degree from Nanyang Technological University. His current research interests include multimodal continuous learning and embodied intelligence.
-img: /PEAK-Lab/assets/img/zhangyufei.jpg
+description: Lingjie Zhang is a research assistant at PEAK-LAB, HKUST(GZ), advised by Prof. Changhao Chen, and a master's student in Automotive Engineering at the Technical University of Munich. He is interested in embodied navigation, particularly in learning-based motion planning and control.
+img: /PEAK-Lab/assets/img/zhanglingjie.png
 importance: 6
 category: work
-email: 'yufeizhang@hkust-gz.edu.cn'
+email: 'zljjacob@gmail.com'
 # github: '12312321'
 # twitter : 'Sitzmann'
 # website: 'github.com'

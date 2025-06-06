@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Lingjie Zhang
-role: Research Assistant
+title: Dehan Shen​
+role: ​​Research Assistant​​
 target: 5
-description: Lingjie Zhang is a research assistant at PEAK-LAB, HKUST(GZ), advised by Prof. Changhao Chen, and a master's student in Automotive Engineering at the Technical University of Munich. He is interested in embodied navigation, particularly in learning-based motion planning and control.
-img: /PEAK-Lab/assets/img/zhanglingjie.png
+description: Dehan Shen is a research assistant working with Prof. Changhao Chen. He graduated from the University of Sheffield with a Master's degree in Robotics and from Shanghai University with a Bachelor's degree in Electronic Information Engineering. His research interests include learning-based inertial odometry and proprioceptive intelligence.
+img: /PEAK-Lab/assets/img/shendehan.png
 importance: 5
 category: work
-email: 'zljjacob@gmail.com'
+email: 'dehanshen@hkust-gz.edu.cn'
 # github: '12312321'
 # twitter : 'Sitzmann'
 # website: 'github.com'

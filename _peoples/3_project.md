@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Qunchao Jin
-role: Research Assistant
+title: Zeyu Jiang
+role: Phd Student
 target: 3
-description: Qunchao Jin is a Research Assistant at ​​Peak Lab​​, where he focuses on ​​foundation model-based embodied navigation​​. Previously, he worked as a ​​Computer Vision Researcher​​ at ​​Lenovo Research​​, developing robotic inspection systems. He holds a ​​Master’s degree​​ from ​​East China Normal University​​, with research in ​​medical image analysis​​. Driven by a broad interest in ​​AI applications across industries​​, Qunchao aims to bridge advanced research with practical solutions to real-world challenges.
-img: /PEAK-Lab/assets/img/jinqunchao.png
+description: Zeyu Jiang is an upcoming PhD student at HKUST-GZ, supervised by Prof. Changhao Chen. Previously, he obtained his master’s degree at NTU, supervised by Prof. Lihua Xie. Piror to that, he received his bachelor’s degree at BIT. His research interests focus on embodied perception based on visual SLAM. He is interested in robotics and committed to joining the development of embodied AI into the physical world.
+img: /PEAK-Lab/assets/img/jiangzeyu.png
 importance: 3
 category: work
-email: 'qunchao.jin@outlook.com'
-# github: '12312321'
+email: 'zjiang015@e.ntu.edu.sg'
+# github: 'https://github.com/the-masses'
 # twitter : 'Sitzmann'
-# website: 'github.com'
+website: 'https://the-masses.github.io/'
 related_publications: true
 ---

@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Chenyang Li
+title: Yufei Zhang
 role: Research Assistant
 target: 7
-description: Chenyang Li is a Research Assistant at HKUST(GZ), working in the PEAK Lab with Prof. Changhao Chen. He is also pursuing a Master of Science in Data Science at Nanyang Technological University. He is interested in embodied AI, robot perception and decision-making, and adversarial robustness in deep and reinforcement learning.
-img: /PEAK-Lab/assets/img/lichenyang.jpg
+description: Yufei Zhang is a research assistant in PEAK lab working with Prof. Chen Changhao. He received his undergraduate degree from the School of Information Science and Engineering of Fudan University and his postgraduate degree from Nanyang Technological University. His current research interests include multimodal continuous learning and embodied intelligence.
+img: /PEAK-Lab/assets/img/zhangyufei.jpg
 importance: 7
 category: work
-email: 'chenyangl@hkust-gz.edu.cn'
+email: 'yufeizhang@hkust-gz.edu.cn'
 # github: '12312321'
 # twitter : 'Sitzmann'
-website: 'https://lichenyang0820.github.io/'
+# website: 'github.com'
 related_publications: true
 ---
 

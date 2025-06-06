@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Changqing Zhou
-role: Phd Student
+title: Changhao Chen
+role: Assistant Professor
 target: 1
-description: Changqing Zhou is an incoming Ph.D. student at HKUST-GZ, where he will be advised by Prof. Changhao CHEN. He holds an M.S. in Artificial Intelligence from NTU and a B.S. in Mechanical Engineering from SJTU. His research interests focus on 3D vision and scene understanding. He aims to develop embodied agents capable of perceiving and interacting with the real world, with the ultimate goal of delivering tangible benefits to everyday life.
-img: /PEAK-Lab/assets/img/zhouchangqing.png
+description: Changhao Chen is an assistant professor at the Intelligent Transportation Thrust and Artificial Intelligence Thrust, HKUST (GZ). He received Ph.D. in Computer Science fromUniversity of Oxford. His research interests lie in embodied AI and autonomous systems, particularly the challenges ofopen-world perception and navigation.
+img: /PEAK-Lab/assets/img/chenchanghao.png
 importance: 1
 category: work
-email: 'zhou0365@e.ntu.edu.sg'
+email: 'changhaochen@hkust-gz.edu.cn'
 # github: '12312321'
 # twitter : 'Sitzmann'
-website: 'https://scholar.google.com/citations?user=FZ3jPs4AAAAJ&hl=en'
+website: 'https://changhao-chen.github.io/'
 related_publications: true
 ---
