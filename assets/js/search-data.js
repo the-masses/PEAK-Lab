@@ -34,7 +34,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "peoples-zihan-zhang",
           title: 'Zihan Zhang',
-          description: "Zihan Zhang is a Research Assistant Intern at HKUST(GZ) Peak Lab, under the supervision of Prof. Changhao Chen. He is currently a second-year master student in Johns Hopkins University. He is currently working on lightweight Transformer models for matching neural networks. His research interests lies on Efficient Model Inference, Artificial Intelligence for Generative Contents and Artificial Intelligence for Healthcare.",
+          description: "Zihan Zhang is a Research Assistant Intern at HKUST(GZ) Peak Lab, under the supervision of Prof. Changhao Chen. He is currently a second-year master student in Johns Hopkins University. He is currently working on lightweight Transformer models for matching neural networks. His research interests lie on Efficient Model Inference, Artificial Intelligence for Generative Contents and Artificial Intelligence for Healthcare.",
           section: "Peoples",handler: () => {
               window.location.href = "/PEAK-Lab/peoples/10_project/";
             },},{id: "peoples-jialong-liu",
@@ -44,7 +44,7 @@ ninja.data = [{
               window.location.href = "/PEAK-Lab/peoples/11_project/";
             },},{id: "peoples-changhao-chen",
           title: 'Changhao Chen',
-          description: "Changhao Chen is an assistant professor at the Intelligent Transportation Thrust and Artificial Intelligence Thrust, HKUST (GZ). He received Ph.D. in Computer Science fromUniversity of Oxford. His research interests lie in embodied AI and autonomous systems, particularly the challenges ofopen-world perception and navigation.",
+          description: "Changhao Chen is an assistant professor at the Intelligent Transportation Thrust and Artificial Intelligence Thrust, HKUST (GZ). He received Ph.D. in Computer Science from University of Oxford. His research interests lie in embodied AI and autonomous systems, particularly the challenges of open-world perception and navigation.",
           section: "Peoples",handler: () => {
               window.location.href = "/PEAK-Lab/peoples/1_project/";
             },},{id: "peoples-changqing-zhou",
