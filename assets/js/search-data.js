@@ -32,54 +32,59 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "peoples-jialong-liu",
+          section: "News",},{id: "peoples-zihan-zhang",
+          title: 'Zihan Zhang',
+          description: "Zihan Zhang is a Research Assistant Intern at HKUST(GZ) Peak Lab, under the supervision of Prof. Changhao Chen. He is currently a second-year master student in Johns Hopkins University. He is currently working on lightweight Transformer models for matching neural networks. His research interests lies on Efficient Model Inference, Artificial Intelligence for Generative Contents and Artificial Intelligence for Healthcare.",
+          section: "Peoples",handler: () => {
+              window.location.href = "/PEAK-Lab/peoples/10_project/";
+            },},{id: "peoples-jialong-liu",
           title: 'Jialong Liu',
           description: "Jialong Liu Research Assistant Working with Prof. Changhao Chen at HKUST (GZ). Graduated from Guangdong University of Technology. Has participated in multiple robotic competitive events. Interested in integrating algorithms and hardware for robot control.",
           section: "Peoples",handler: () => {
-              window.location.href = "/PEAK-Lab/peoples/10_project/";
+              window.location.href = "/PEAK-Lab/peoples/11_project/";
+            },},{id: "peoples-changhao-chen",
+          title: 'Changhao Chen',
+          description: "Changhao Chen is an assistant professor at the Intelligent Transportation Thrust and Artificial Intelligence Thrust, HKUST (GZ). He received Ph.D. in Computer Science fromUniversity of Oxford. His research interests lie in embodied AI and autonomous systems, particularly the challenges ofopen-world perception and navigation.",
+          section: "Peoples",handler: () => {
+              window.location.href = "/PEAK-Lab/peoples/1_project/";
             },},{id: "peoples-changqing-zhou",
           title: 'Changqing Zhou',
           description: "Changqing Zhou is an incoming Ph.D. student at HKUST-GZ, where he will be advised by Prof. Changhao CHEN. He holds an M.S. in Artificial Intelligence from NTU and a B.S. in Mechanical Engineering from SJTU. His research interests focus on 3D vision and scene understanding. He aims to develop embodied agents capable of perceiving and interacting with the real world, with the ultimate goal of delivering tangible benefits to everyday life.",
           section: "Peoples",handler: () => {
-              window.location.href = "/PEAK-Lab/peoples/1_project/";
+              window.location.href = "/PEAK-Lab/peoples/2_project/";
             },},{id: "peoples-zeyu-jiang",
           title: 'Zeyu Jiang',
           description: "Zeyu Jiang is an upcoming PhD student at HKUST-GZ, supervised by Prof. Changhao Chen. Previously, he obtained his master’s degree at NTU, supervised by Prof. Lihua Xie. Piror to that, he received his bachelor’s degree at BIT. His research interests focus on embodied perception based on visual SLAM. He is interested in robotics and committed to joining the development of embodied AI into the physical world.",
           section: "Peoples",handler: () => {
-              window.location.href = "/PEAK-Lab/peoples/2_project/";
+              window.location.href = "/PEAK-Lab/peoples/3_project/";
             },},{id: "peoples-qunchao-jin",
           title: 'Qunchao Jin',
           description: "Qunchao Jin is a Research Assistant at ​​Peak Lab​​, where he focuses on ​​foundation model-based embodied navigation​​. Previously, he worked as a ​​Computer Vision Researcher​​ at ​​Lenovo Research​​, developing robotic inspection systems. He holds a ​​Master’s degree​​ from ​​East China Normal University​​, with research in ​​medical image analysis​​. Driven by a broad interest in ​​AI applications across industries​​, Qunchao aims to bridge advanced research with practical solutions to real-world challenges.",
           section: "Peoples",handler: () => {
-              window.location.href = "/PEAK-Lab/peoples/3_project/";
+              window.location.href = "/PEAK-Lab/peoples/4_project/";
             },},{id: "peoples-dehan-shen",
           title: 'Dehan Shen​',
           description: "Dehan Shen is a research assistant working with Prof. Changhao Chen. He graduated from the University of Sheffield with a Master&#39;s degree in Robotics and from Shanghai University with a Bachelor&#39;s degree in Electronic Information Engineering. His research interests include learning-based inertial odometry and proprioceptive intelligence.",
           section: "Peoples",handler: () => {
-              window.location.href = "/PEAK-Lab/peoples/4_project/";
+              window.location.href = "/PEAK-Lab/peoples/5_project/";
             },},{id: "peoples-lingjie-zhang",
           title: 'Lingjie Zhang',
           description: "Lingjie Zhang is a research assistant at PEAK-LAB, HKUST(GZ), advised by Prof. Changhao Chen, and a master&#39;s student in Automotive Engineering at the Technical University of Munich. He is interested in embodied navigation, particularly in learning-based motion planning and control.",
           section: "Peoples",handler: () => {
-              window.location.href = "/PEAK-Lab/peoples/5_project/";
+              window.location.href = "/PEAK-Lab/peoples/6_project/";
             },},{id: "peoples-yufei-zhang",
           title: 'Yufei Zhang',
           description: "Yufei Zhang is a research assistant in PEAK lab working with Prof. Chen Changhao. He received his undergraduate degree from the School of Information Science and Engineering of Fudan University and his postgraduate degree from Nanyang Technological University. His current research interests include multimodal continuous learning and embodied intelligence.",
           section: "Peoples",handler: () => {
-              window.location.href = "/PEAK-Lab/peoples/6_project/";
+              window.location.href = "/PEAK-Lab/peoples/7_project/";
             },},{id: "peoples-chenyang-li",
           title: 'Chenyang Li',
           description: "Chenyang Li is a Research Assistant at HKUST(GZ), working in the PEAK Lab with Prof. Changhao Chen. He is also pursuing a Master of Science in Data Science at Nanyang Technological University. He is interested in embodied AI, robot perception and decision-making, and adversarial robustness in deep and reinforcement learning.",
           section: "Peoples",handler: () => {
-              window.location.href = "/PEAK-Lab/peoples/7_project/";
+              window.location.href = "/PEAK-Lab/peoples/8_project/";
             },},{id: "peoples-renmin-cheng",
           title: 'Renmin Cheng',
           description: "Renmin Cheng is a research assistant at HKUST(GZ) working with Prof.Changhao Chen. Before that, He works as RD at Baidu. He graduated from Xidian Uninersity  with a Master’s degree in Engineering , and from the Heilongjiang University with an undergraduate degree in Engineering.",
-          section: "Peoples",handler: () => {
-              window.location.href = "/PEAK-Lab/peoples/8_project/";
-            },},{id: "peoples-zihan-zhang",
-          title: 'Zihan Zhang',
-          description: "Zihan Zhang is a Research Assistant Intern at HKUST(GZ) Peak Lab, under the supervision of Prof. Changhao Chen. He is currently a second-year master student in Johns Hopkins University. He is currently working on lightweight Transformer models for matching neural networks. His research interests lies on Efficient Model Inference, Artificial Intelligence for Generative Contents and Artificial Intelligence for Healthcare.",
           section: "Peoples",handler: () => {
               window.location.href = "/PEAK-Lab/peoples/9_project/";
             },},{id: "projects-站三",
