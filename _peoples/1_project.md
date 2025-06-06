@@ -3,7 +3,7 @@ layout: page
 title: Changhao Chen
 role: Assistant Professor
 target: 1
-description: Changhao Chen is an assistant professor at the Intelligent Transportation Thrust and Artificial Intelligence Thrust, HKUST (GZ). He received Ph.D. in Computer Science fromUniversity of Oxford. His research interests lie in embodied AI and autonomous systems, particularly the challenges ofopen-world perception and navigation.
+description: Changhao Chen is an assistant professor at the Intelligent Transportation Thrust and Artificial Intelligence Thrust, HKUST (GZ). He received Ph.D. in Computer Science from University of Oxford. His research interests lie in embodied AI and autonomous systems, particularly the challenges of open-world perception and navigation.
 img: /PEAK-Lab/assets/img/chenchanghao.png
 importance: 1
 category: work
