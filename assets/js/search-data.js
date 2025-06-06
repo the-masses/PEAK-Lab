@@ -54,7 +54,7 @@ ninja.data = [{
               window.location.href = "/PEAK-Lab/peoples/2_project/";
             },},{id: "peoples-zeyu-jiang",
           title: 'Zeyu Jiang',
-          description: "Zeyu Jiang is an upcoming PhD student at HKUST-GZ, supervised by Prof. Changhao Chen. Previously, he obtained his master’s degree at NTU, supervised by Prof. Lihua Xie. Piror to that, he received his bachelor’s degree at BIT. His research interests focus on embodied perception based on visual SLAM. He is interested in robotics and committed to joining the development of embodied AI into the physical world.",
+          description: "Zeyu Jiang is an upcoming PhD student at HKUST-GZ, supervised by Prof. Changhao Chen. Previously, he obtained his master’s degree at NTU and bachelor’s degree at BIT. His research interests focus on embodied perception based on visual SLAM. He is interested in robotics and committed to joining the development of embodied AI into the physical world.",
           section: "Peoples",handler: () => {
               window.location.href = "/PEAK-Lab/peoples/3_project/";
             },},{id: "peoples-qunchao-jin",
